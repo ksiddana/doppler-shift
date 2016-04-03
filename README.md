@@ -8,7 +8,7 @@ Blueshift: As the object is moving closer to the observer who is stationary, the
 
 Using the slider bar, the Observer can use this as a tool to explain the Doppler's shift in terms of planetary orbits and stars that are moving away from our galaxy versus the stars that are moving towards our galaxy. By measuring the speed of star relative to the Earth, astronmers can predict motions in our galaxy.
 
-<span class="snapshot"><img style="width:400px; height:400px" src="./images/Smart-Sparrow-Simulation.png" alt="Smart Sparrow Simulation"></span>
+<span class="snapshot"><img width="60%" height="60%" align="left" src="./images/Smart-Sparrow-Simulation.png" alt="Smart Sparrow Simulation"></span>
 
 ####Resources:
 1. [Relativistic Doppler effect](https://en.wikipedia.org/wiki/Relativistic_Doppler_effect)
