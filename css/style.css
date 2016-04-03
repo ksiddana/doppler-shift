@@ -1,0 +1,52 @@
+/* Put your Styling in here */
+body {
+	width: 100%;
+	background-color: #FFF;
+
+}
+.canvas {
+	background-color: #FFF;
+	width: 600px;
+	margin: 40px auto;
+  border: 1px solid #000;
+}
+
+.star {
+  position: relative;
+}
+
+.star-image {
+  width:420px;
+  height:420px;
+  margin-left: 90px;
+}
+
+.star-color {
+  width: 420px;
+  height:420px;
+  position: absolute;
+  margin-left: 90px;
+  left: 0;
+  top: 0;
+  -webkit-mask-image: url(../images/star-small.png);
+}
+
+.slider {
+  display: inline-block;
+  width: 400px;
+  margin-left: 20px;
+}
+
+.velocity-control-box {
+  margin-top: 20px;
+  margin-bottom: 20px
+}
+
+.velocity-control-box label {
+  margin-left: 10px;
+}
+
+.velocity {
+  font:normal 15px Arial, sans-serif;
+  width: 50px;
+}
