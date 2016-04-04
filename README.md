@@ -13,3 +13,4 @@ Using the slider bar, the Observer can use this as a tool to explain the Doppler
 ####Resources:
 1. [Relativistic Doppler effect](https://en.wikipedia.org/wiki/Relativistic_Doppler_effect)
 2. [Abberation of Light](https://en.wikipedia.org/wiki/Relativistic_Doppler_effect#/media/File:XYCoordinates.gif)
+3. [Translating the X Position](http://www.meta-calculator.com/online/06qeubl1otgk)
